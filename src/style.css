@@ -20,6 +20,10 @@
     color: darkred;
 }
 
+.card_article {
+    width: 18rem;
+}
+
 .button_card {
     background-color: darkred;
     color: white;
@@ -27,4 +31,9 @@
 
 .border_card_color {
     border-color: darkred;
+}
+
+.img_card-position {
+    object-fit: cover;
+    height: 200px;
 }
