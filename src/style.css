@@ -19,3 +19,8 @@
 .cor_titulo {
     color: darkred;
 }
+
+.button_card {
+    background-color: darkred;
+    border: none;
+}
