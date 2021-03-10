@@ -24,3 +24,7 @@
     background-color: darkred;
     color: white;
 }
+
+.border_card_color {
+    border-color: darkred;
+}
