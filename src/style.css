@@ -1,0 +1,21 @@
+:root {
+    --font-titulo:'Pacifico', cursive;
+}
+
+.font__titulo {
+    font-family: var(--font-titulo);
+}
+.first-img__carrosel {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.second-img__carrosel {
+    object-fit: cover;
+    height: 400px;
+}
+
+.cor_titulo {
+    color: darkred;
+}
