@@ -17,7 +17,7 @@
 }
 
 .cor_titulo {
-    color: darkred;
+    color: darkred !important;
 }
 
 .card_article {
